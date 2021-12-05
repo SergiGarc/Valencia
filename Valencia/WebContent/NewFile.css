@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+h1{
+	text-align:center;
+	background-color:#5f9ea0;
+}
+
+.valencia{
+	background-color:#5f9ea0;
+}
+
+.uno{
+	padding-top:5px;
+	background-color:white;
+	
+}
+.img1{
+	width:10%;
+	height:5%;
+	
+}
+
+
+.dos{
+	border:solid blue;
+	
+}
+
+h2{
+	position:relative;
+	left:250px;
+}
+
+.texto{
+	box-sizing:content-box;
+	display:block;
+	color:blue;
+	width:900px;
+	height:100px;
+	position:relative;
+	
+	
+}
