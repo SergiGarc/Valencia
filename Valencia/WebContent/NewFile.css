@@ -2,11 +2,11 @@
 
 h1{
 	text-align:center;
-	background-color:#5f9ea0;
+	background-color:#ADD8E6;
 }
 
 .valencia{
-	background-color:#5f9ea0;
+	background-color:#ADD8E6;
 }
 
 .uno{
@@ -16,28 +16,61 @@ h1{
 }
 .img1{
 	width:10%;
-	height:5%;
-	
+	height:125px;
+	opacity: 1.0;
 }
 
+.hri{
+	margin-left:25%;
+	margin-right:25%;
+}
+.blue:hover {
+	background-color:#ADD8E6;
+}
 
+.img1:hover{
+	opacity: 0.5;
+}
 .dos{
 	border:solid blue;
-	
 }
 
 h2{
 	position:relative;
-	left:250px;
+	left:28%;
+	box-sizing:content-box;
+	display:block;
 }
 
 .texto{
 	box-sizing:content-box;
 	display:block;
 	color:blue;
-	width:900px;
+	width:100%;
 	height:100px;
 	position:relative;
-	
-	
+}
+
+.ftexto{
+	box-sizing:content-box;
+	display:block;
+	color:blue;
+	width:60%;
+	height:250px;
+	position:relative;
+	background-image: url("img/antigua.jpg");
+}
+article{
+	text-align:center;
+}
+
+footer{
+	text-align:center;
+	background-color:#ADD8E6;
+	margin-top:10px;
+}
+
+.footer{
+	width:20%;
+	height:20%;
 }
